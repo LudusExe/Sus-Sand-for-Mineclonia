@@ -1,0 +1,1 @@
+ඞ A simple texture pack for Mineclonia that visually differentiates suspicious sand and gravel from their regular counterparts, making them easier to spot during exploration and excavation.
